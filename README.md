@@ -1,2 +1,2 @@
 # Examples-CPP-Makefile
-# Example to understand C++ program with makefile
+Understanding C++ Program With Makefile
