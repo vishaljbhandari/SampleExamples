@@ -1,0 +1,1 @@
+g++ -g -Wall -o stack_app src/main.cc src/stack.cc src/node.cc -I.
