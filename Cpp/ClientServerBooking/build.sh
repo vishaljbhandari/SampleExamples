@@ -1,0 +1,2 @@
+rm server client
+gmake
